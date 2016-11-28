@@ -1,0 +1,12 @@
+{
+    "name": "think-websql",
+    "version": "0.0.14",
+    "description": "A websql package for a typescript file",
+    "main": "think-websql.d.ts",
+    "keywords": [
+        "websql",
+        "think"
+    ],
+    "author": "Felipe Almeida <felipe.almeida@thinkam.net> (http://www.thinkam.net)",
+    "license": "MIT"
+}
